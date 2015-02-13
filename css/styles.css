@@ -1,0 +1,19 @@
+body{
+background-color: #66FF66
+}
+
+h1{
+text-align: center;
+}
+
+h2{
+margin-left: 800px;
+}
+
+h3{
+margin-left: 800px;
+}
+
+.list-group-item{
+width: 500px;
+}
